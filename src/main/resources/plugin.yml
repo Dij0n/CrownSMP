@@ -1,0 +1,7 @@
+name: CrownSMP
+version: '${project.version}'
+main: dijon.org.example.crownsmp.CrownSMP
+api-version: '1.20'
+commands:
+  crownreset:
+    usage: /crownreset
